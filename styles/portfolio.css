@@ -130,3 +130,9 @@ p {
     text-align: center;
   }
 }
+
+.img-projects {
+  height: 350px;
+  width: 100%;
+  object-fit: contain;
+}
