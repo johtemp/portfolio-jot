@@ -106,7 +106,7 @@ p {
   padding: 15px 30px;
 }
 
-.project-desciption {
+.project-description {
   padding: 120px 60px;
 }
 
@@ -179,6 +179,13 @@ footer .social-links a:hover {
   color: white;
   background: var(--branding-color);
 }
+img {
+  border-radius: 10px;
+  height: 646px;
+}
+.about-picture {
+  height: 600px;
+}
 
 @media (max-width: 900px) {
   h1 {
@@ -199,7 +206,7 @@ footer .social-links a:hover {
     padding: 0;
   }
 
-  .project-desciption {
+  .project-description {
     padding: 0;
     text-align: center;
   }
